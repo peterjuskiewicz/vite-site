@@ -4,13 +4,7 @@ import "./App.css";
 import Grid from "@mui/material/Grid";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
-import {
-  ButtonBack,
-  ButtonNext,
-  CarouselProvider,
-  Slide,
-  Slider,
-} from "pure-react-carousel";
+import { CarouselProvider } from "pure-react-carousel";
 
 function TwoColumnLayout() {
   return (
